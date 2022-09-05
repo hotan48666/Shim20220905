@@ -6,7 +6,6 @@ int main() {
 
 	std::cout << "Hello Unreal!" << std::endl;
 
-	std::cout << "VR META ¸ÁÇÔ!" << std::endl;
 
 	return 0;
 }
